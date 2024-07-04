@@ -9,13 +9,13 @@ export class FooterComponent {
 
   onGoto(){
     let link=document.createElement('a');
-    link.href='https://www.linkedin.com/in/manjeet-s-7860b5242';
+    link.href='https://www.linkedin.com/company/initializ';
     link.click();
   }
 
   onGithub(){
     let link=document.createElement('a');
-    link.href='https://www.github.com/samratmanjeet7';
+    link.href='https://www.github.com/initializ';
     link.click();
   }
 
